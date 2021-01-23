@@ -1,2 +1,2 @@
-# node-typescript-eslint-boilerplate
+# typescript-node-boilerplate
  
